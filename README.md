@@ -2,5 +2,3 @@
 FCFM
 
 
-Parcial 1
-
